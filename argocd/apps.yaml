@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Slimison/crossplane-tutorial.git
+    repoURL: https://github.com/Slimison/crossplane-tutorial
     targetRevision: HEAD
     path: a-team
   destination:
