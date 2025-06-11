@@ -8,11 +8,11 @@ spec:
     location: eastus
     resourceGroupNameRef:
       name: dot-group
-    size: Standard_A1_v2
+    size: Standard_B2as_v2
     sourceImageReference:
       - offer: UbuntuServer
         publisher: Canonical
-        sku: 16.04-LTS
+        sku: 22.04-LTS
         version: latest
     adminSshKey:
       - publicKey: ssh-rsa
